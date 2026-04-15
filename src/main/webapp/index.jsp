@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-		<span style="font-size:64px;margin-right:10px;color:green">Flipkart Site</span>
+		<span style="font-size:64px;margin-right:10px;color:green">Flipkart Site 2026</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Makesure You Practice the CICD Project </h1>
+         <h1> Makesure You Practice the CICD Project 2026 </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
